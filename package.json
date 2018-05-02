@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/JoshuaHaarer/FriendFinder#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "path": "^0.12.7",
     "request": "^2.85.0"
   }
 }
